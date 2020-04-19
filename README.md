@@ -1,5 +1,5 @@
 # Delta-X-3D-Printing-Parts
-Delta X Robot Kit is an open source delta robot created by IMWI Technology, a Vietnamese startup company. You can fully use the 3D printed parts and customize it. However, except IMWI Technology, no one is allowed to commercialize Delta X Robot Kit.
+Delta X Robot Kit is an open source delta robot created by IMWI Technology, a Vietnamese startup company. You can fully use the 3D printed parts and customize it. However, except IMWI Technology, no one is allowed to commercialize Delta X Robot Kit. Hope you respect this.
 
 Website: https://www.deltaxrobot.com/
 
