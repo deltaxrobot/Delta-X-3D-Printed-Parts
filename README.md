@@ -10,26 +10,26 @@ Thingiverse: https://github.com/deltaxrobot/Delta-X-3D-Printed-Parts
 *Includes STEP files
 
 Print Settings
-Printer:
+- Printer:
 CreX V2
 
-Rafts:
+- Rafts:
 No
 
-Supports:
+- Supports:
 Yes
 
-Resolution:
+- Resolution:
 0.2mm
 
-Infill:
+- Infill:
 30%
 
-Filament_brand:
+- Filament_brand:
 No Brand
 
-Filament_color:
+- Filament_color:
 Black and Blue
 
-Filament_material:
+- Filament_material:
 PLA
